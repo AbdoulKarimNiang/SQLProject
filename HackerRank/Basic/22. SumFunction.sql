@@ -1,6 +1,10 @@
 -- Query the total population of all cities in CITY where District is California.
 
 -- Input Format
+
+
+-- The CITY table is described as follows:
+
 | Field       | Type            |
 |-------------|-----------------|
 | ID          | NUMBER          |
@@ -8,7 +12,5 @@
 | COUNTRYCODE | VARCHAR2(3)     |
 | DISTRICT    | VARCHAR2(20)    |
 | POPULATION  | NUMBER          |
-
--- The CITY table is described as follows:
-
+  
 SELECT SUM(population) FROM city WHERE district = 'California';
