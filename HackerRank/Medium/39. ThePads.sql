@@ -28,8 +28,6 @@
 -- Sample Input
 -- An OCCUPATIONS table that contains the following records:
 
--- COUNTRY
-  
 | Name            | Occupation      |
 |---------        |---------------- |
 | Samantha        | Doctor          |
