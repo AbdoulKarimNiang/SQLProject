@@ -9,6 +9,12 @@
 
 -- The Employee table containing employee data for a company is described as follows:
 
+| Field       | Type          |
+|-------------|---------------|
+| employee_id | INTEGER       |
+| name        | STRING        |
+| months      | INTEGER       |
+| salary      | INTEGER       |
 
 -- where employee_id is an employee's ID number,
 -- name is their name, months is the total 
