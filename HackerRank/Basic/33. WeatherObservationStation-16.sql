@@ -1,5 +1,5 @@
 -- Query the smallest Northern Latitude (LAT_N) from STATION that is greater than 38.7880.
--- Round your answer to 2 decimal places.
+-- Round your answer to 4 decimal places.
 
 -- Input Format
 
